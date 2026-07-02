@@ -1,0 +1,5 @@
+date,product,price,quantity,revenue,city
+2026-01-01,Product A,10.0,2,20.0,New York
+2026-01-02,Product B,15.5,1,15.5,Los Angeles
+2026-01-03,Product A,10.0,4,40.0,Chicago
+2026-01-04,Product C,20.0,3,60.0,New York
